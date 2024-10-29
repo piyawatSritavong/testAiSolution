@@ -18,11 +18,11 @@ cd <your-project-directory>
 1. **ขั้นตอนการติดตั้ง:**  
    - บอกขั้นตอนการ clone, ติดตั้ง dependencies
    - ติดตั้ง Frontend
-        - cd frontend
+        - cd front
         - npm install
         - npm run dev
    - ติดตั้ง Backend
-        - cd backend
+        - cd back
         - npm install
         - npm run start
 ---
